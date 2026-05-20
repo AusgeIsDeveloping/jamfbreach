@@ -26,4 +26,17 @@ You can also bypass the restriction of Jamf to lock your apps.
 
 To do that do following things:
 
+Sometimes jamfbreach works (only on some ipads) (NOT STABLE)
+
+The normal way:
+
+Settings > Accessibility > Guided Access > Turn on “Guided Access” > Tap “Passcode Settings” > Set Guided Access Passcode (or enable Face ID/Touch ID) > Open the app you want to lock > Triple-click the Side Button (or Home Button) > Tap “Start”
+
+When your not locked by Jamf, enable Guided Access in an app that would be normally locked by Jamf
+
+If it has worked, you used an well known technique to bypass Jamf in school
+
+------------------------------------------------------------------------------
+
+
 
