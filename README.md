@@ -10,6 +10,7 @@ Introducing jamfbreach!
 
 I used that methods to bypass our school restrictions!
 I got snitched and my website got snitched. (I guess it's because someone thought it would make him happy)
+
 But there is the change that someone i knew snitched my site and wanted to gatekeep my methods.
 
 ------------------------------------------------------------------------------
